@@ -1,2 +1,2 @@
 # ClasificadorDeArchivos
-Programa usado en gru
+Programa usado en g
